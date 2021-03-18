@@ -1,4 +1,4 @@
-# Testing Flux 11 vs. 12 on example 1 from AtomicGraphNets.jl
+# Testing Flux 0.11 vs. 0.12 on example 1 from AtomicGraphNets.jl
 
 For more details about this example, go read [this readme](https://github.com/aced-differentiate/AtomicGraphNets.jl/tree/master/examples/1_formation_energy).
 
